@@ -1,2 +1,3 @@
 # quickselect-algo
-Selection algorithm to find the k'th smallest element in an unordered list
+
+Quickselect is a selection algorithm to find the k'th smallest element in an unordered list.
